@@ -1,3 +1,1 @@
-# cs
-this is my project
-created by inc
+created by me
